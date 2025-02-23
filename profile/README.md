@@ -19,9 +19,10 @@ Welcome to **[EmbarkX](https://embarkx.com)**, where we focus on creating course
 Most of the courses below are available in **Udemy For Business**, so if you have subscription - you can get FREE access.
 Here’s a structured path to enhance your skills with detailed courses available:
 
-**[Spring Boot By Building Complex Projects Step by Step](https://link.embarkx.com/spring-boot) (50+ Hours of Content)**  
+**[Spring Boot By Building Complex Projects Step by Step](https://link.embarkx.com/spring-boot) (85+ Hours of Content)**  
 Dive into building eCommerce project that will challenge and expand your understanding of Spring Boot. This course is perfect for those looking to build production-grade applications.
 This course also covers Spring AI and teaches you how to integrate AI into your Spring Boot applications.
+We also cover React Frontend with Cart and Order management. Finally we do Payment integration in the app.
 
 **[Master Spring Boot Microservices](https://link.embarkx.com/microservices) (23+ Hours of Content)**  
 Transition from monolithic applications to microservices with this comprehensive course. Learn how to design, build, and deploy microservices using Spring Boot and related technologies.
@@ -29,7 +30,7 @@ Transition from monolithic applications to microservices with this comprehensive
 **[Learn Java with 60+ Hours of Content](http://link.embarkx.com/java) (60+ Hours of Content)**  
 Strengthen your core Java skills, which are essential for mastering any Java-based framework like Spring. This extensive course covers everything from basics to advanced concepts in Java.
 
-**[Master Spring Security with React JS + OAuth2](https://link.embarkx.com/spring-security) (23+ Hours of Content)**  
+**[Master Spring Security with React JS + OAuth2](https://link.embarkx.com/spring-security) (34+ Hours of Content)**  
 Already comfortable with Spring Security? Take it to the next level by integrating it with React and OAuth2. Learn to build modern, secure, full-stack applications.
 
 **[Master IntelliJ IDEA](http://link.embarkx.com/intellij) (3+ Hours of Content)**  
