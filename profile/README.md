@@ -19,12 +19,12 @@ Welcome to **[EmbarkX](https://embarkx.com)**, where we focus on creating course
 Most of the courses below are available in **Udemy For Business**, so if you have subscription - you can get FREE access.
 Here’s a structured path to enhance your skills with detailed courses available:
 
-**[Spring Boot By Building Complex Projects Step by Step](https://link.embarkx.com/spring-boot) (85+ Hours of Content)**  
+**[Spring Boot By Building Complex Projects Step by Step](https://link.embarkx.com/spring-boot) (90+ Hours of Content)**  
 Dive into building eCommerce project that will challenge and expand your understanding of Spring Boot. This course is perfect for those looking to build production-grade applications.
 This course also covers Spring AI and teaches you how to integrate AI into your Spring Boot applications.
 We also cover React Frontend with Cart and Order management. Finally we do Payment integration in the app.
 
-**[Master Spring Boot Microservices](https://link.embarkx.com/microservices) (23+ Hours of Content)**  
+**[Master Spring Boot Professional eCommerceMicroservices](https://link.embarkx.com/microservices) (70+ Hours of Content)**  
 Transition from monolithic applications to microservices with this comprehensive course. Learn how to design, build, and deploy microservices using Spring Boot and related technologies.
 
 **[Learn Java with 60+ Hours of Content](http://link.embarkx.com/java) (60+ Hours of Content)**  
